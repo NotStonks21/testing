@@ -1,0 +1,12 @@
+{
+  "name": "carlos",
+  "version": "0.0.0",
+  "description": "",
+  "main": "carlos.js",
+  "scripts": {
+  "start": "carlos.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
